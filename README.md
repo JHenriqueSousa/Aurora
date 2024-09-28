@@ -67,7 +67,7 @@ The `/criteria` command provides a fixed set of clothing recommendation criteria
    
 3. Install the required packages:
    ```bash
-   git clone https://github.com/JHenriqueSousa/Aurora.git
+   python3 aurora.py
    ```
 4. Replace YOUR_DISCORD_BOT_TOKEN and YOUR_WEATHER_API_TOKEN in the code with your actual Discord bot token and WeatherAPI key.
 
